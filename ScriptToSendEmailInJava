@@ -1,4 +1,4 @@
-public class SendHTMLEmail {
+public class ScriptToSendEmailInJava {
 
     public static void main(String[] args) {
         try {                
