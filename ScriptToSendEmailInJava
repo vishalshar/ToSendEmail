@@ -46,6 +46,7 @@ public class ScriptToSendEmailInJava {
                     mex.printStackTrace();
                 }
             }
+            // catch expections
         } catch (BiffException e) {
             e.printStackTrace();
         } catch (IOException e) {
